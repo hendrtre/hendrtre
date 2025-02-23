@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Unfortunately most of my stuff is private as most deal with keys that I don’t want shared.
+
 <!--
 **hendrtre/hendrtre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
